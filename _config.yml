@@ -1,0 +1,14 @@
+layout_spectrum: 0.05992445768788457
+typography_spectrum: 0.3922507034149021
+color:
+  brandStrength: 0.14753686427138746
+  lightness: 0.9290880837943405
+  saturation: 0.30157069815322757
+  rhythmicContrast: 0.37246235739439726
+  brandColors:
+    - '#D0E0ED'
+    - '#D5C3A7'
+    - '#E28D4A'
+    - '#C16F52'
+    - '#783518'
+name: HankOfAllTrades
